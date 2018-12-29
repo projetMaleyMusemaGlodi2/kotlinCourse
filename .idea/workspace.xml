@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b250278-12de-42d3-8ea0-dc5c96ac002a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FuctionsAndClass.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,29 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StructureConditionnelle.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="35" column="31" lean-forward="true" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Collections.kt">
+        <entry file="file://$PROJECT_DIR$/src/FuctionsAndClass.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="69" column="4" lean-forward="true" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MonAge.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="-645">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
@@ -61,6 +43,7 @@
         <option value="$PROJECT_DIR$/src/MonAge.kt" />
         <option value="$PROJECT_DIR$/src/StructureConditionnelle.kt" />
         <option value="$PROJECT_DIR$/src/Collections.kt" />
+        <option value="$PROJECT_DIR$/src/FuctionsAndClass.kt" />
       </list>
     </option>
   </component>
@@ -97,7 +80,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546081404926" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546085664586" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -111,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.CollectionsKt">
+  <component name="RunManager" selected="Kotlin.FuctionsAndClassKt">
     <configuration name="CollectionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin_Isig_Cours" />
       <option name="VM_PARAMETERS" />
@@ -120,6 +103,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="CollectionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuctionsAndClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin_Isig_Cours" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FuctionsAndClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,6 +149,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FuctionsAndClassKt" />
         <item itemvalue="Kotlin.CollectionsKt" />
         <item itemvalue="Kotlin.StructureConditionnelleKt" />
         <item itemvalue="Kotlin.MonAgeKt" />
@@ -181,15 +178,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.104221635" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.050131924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.06185567" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298969" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49868074" weight="0.06185567" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5013193" side_tool="true" weight="0.46391752" />
+      <window_info anchor="bottom" id="Messages" weight="0.5670103" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.12577319" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13402061" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.31546393" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -235,8 +232,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Collections.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="69" column="4" lean-forward="true" selection-start-line="69" selection-start-column="4" selection-end-line="69" selection-end-column="4" />
+        <state relative-caret-position="352">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FuctionsAndClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-645">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
